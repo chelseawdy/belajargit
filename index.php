@@ -1,1 +1,1 @@
-ini adalah text pertama saya di git
+ini adalah text pertama saya di gitx
